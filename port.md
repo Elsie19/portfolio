@@ -51,6 +51,7 @@
 	- [AppArmor](https://www.apparmor.net/)
 	- [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)
 	- [Firejail](https://firejail.wordpress.com/)
+	- [UFW](https://help.ubuntu.com/community/UFW)
 * SSH security
 	- Creating unprivileged users
 	- Disabling root login
