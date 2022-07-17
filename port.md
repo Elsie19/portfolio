@@ -17,7 +17,7 @@
 
 * **HepOS** ~ _Breaking through the myth that Linux is bad for gaming_
 	- HepOS will break through the idea that Linux is bad for gaming with an easy to use system with various tools to help run all your favorite games out of the box.
-		- Current role: Developer
+		- Current role: Co-Creator/Developer
 	- [https://github.com/Hep-OS](https://github.com/Hep-OS)
 
 * **Venom** ~ _NeoVim configuration_
