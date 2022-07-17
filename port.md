@@ -27,10 +27,11 @@
 
 ### ### Skills
 * A deep understanding of how Linux systems work and operate
-	- Installing packages and setting up most of their configuration
+	- Installing packages and setting up most of their configuration using:
 		- APT
 		- YUM/DNF
 		- Pacman
+		- Pacstall
 	- Setting up basic website backends like Nginx and Apache (primarily Apache)
 	- Debugging system issues
 	- Installing and setting up Linux based operating systems
