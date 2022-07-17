@@ -49,8 +49,10 @@
 	- [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)
 	- [Firejail](https://firejail.wordpress.com/)
 * SSH security
+	- Creating unprivileged users
 	- Disabling root login
 	- Changing the default port
-	- Setting up [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) and endlessh
+	- Setting up [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) and [Endlessh](https://github.com/skeeto/endlessh)
+	- Pre/Post-login banners
 	- Revoking password login in favor of keys
 * Deep knowledge of the Git version control system
