@@ -56,3 +56,8 @@
 	- Pre/Post-login banners
 	- Revoking password login in favor of keys
 * Deep knowledge of the Git version control system
+
+### ### Education
+* Primarily self-taught
+* [Joma Class](https://www.jomaclass.com/)
+* [Missouri S&T CyberMiner camp](https://futurestudents.mst.edu/summer-camps/cyberminer-camp/)
