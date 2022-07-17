@@ -33,13 +33,14 @@
 		- Pacman
 		- Pacstall
 	- Setting up basic website backends like Nginx and Apache (primarily Apache)
+		- Setting up HTTPS certs
 	- Debugging system issues
 	- Installing and setting up Linux based operating systems
 		- [Ubuntu](https://ubuntu.com/)
 		- [Debian](https://www.debian.org/)
 		- [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 		- [OpenSUSE](https://www.opensuse.org/)
-	- Setting up Docker containers
+	- Setting up/creating Docker containers
 	- Basic LXC usage/understanding
 * Moderate Python3 understanding
 * Shell scripting
@@ -55,6 +56,7 @@
 	- Setting up [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) and [Endlessh](https://github.com/skeeto/endlessh)
 	- Pre/Post-login banners
 	- Revoking password login in favor of keys
+	- Whitelist allowed IP addresses
 * Deep knowledge of the Git version control system
 
 ### ### Education
