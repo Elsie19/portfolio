@@ -61,6 +61,7 @@
 * Primarily self-taught
 * [Joma Class](https://www.jomaclass.com/)
 * [Missouri S&T CyberMiner camp](https://futurestudents.mst.edu/summer-camps/cyberminer-camp/)
+
 ### ### Programming Languages I know
 * Shell scripting (full)
 * Python (moderate)
