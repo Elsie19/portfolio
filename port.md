@@ -43,7 +43,7 @@
 	- Setting up/creating Docker containers
 	- Basic LXC usage/understanding
 * Moderate Python3 understanding
-* Shell scripting
+* Bash scripting
 	- Setting up Cron jobs, systemd services, etc
 * System security
 	- [AppArmor](https://www.apparmor.net/)
@@ -65,7 +65,7 @@
 * [Missouri S&T CyberMiner camp](https://futurestudents.mst.edu/summer-camps/cyberminer-camp/)
 
 ### ### Programming Languages I know
-* Shell scripting (full)
+* Bash scripting (full)
 * Python (moderate)
 * Javascript (moderate)
 * C (basic)
