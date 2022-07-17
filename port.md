@@ -1,7 +1,9 @@
-# # Henry's Portfolio
+# # Hey! I'm Henry!
+
+> Sysadmin, Developer, Project Leader
 
 ## ## A little bit about me
-> I started using Linux when I was nine years old, using a Raspberry Pi that my dad bought for me. I started to program with the help of a single book (https://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf), and nothing else. Fast forward 6 years, and I am now a developer on many popular Free and Open Source projects, and have developed many skills pertaining to system administration.
+> I started using Linux when I was nine years old, using a Raspberry Pi that my dad bought for me. I started to program with the help of a single book (https://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf), and nothing else. Fast forward 7 years, and I am now a developer on many popular Free and Open Source projects, and have developed many skills pertaining to system administration.
 
 ### ### Here are some projects that I am working on
 
@@ -70,3 +72,7 @@
 * Javascript (moderate)
 * C (basic)
 * Go (basic)
+
+#### #### Contact me
+1. Email: <hwengerstickel@pm.me>
+2. Discord: Plasma#4485
