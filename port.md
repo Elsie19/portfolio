@@ -12,10 +12,10 @@
 		- Current role: Creator/Team Leader/Developer
 	- [https://pacstall.dev](https://pacstall.dev)
 
-* **Rolling Rhino Remix** ~ _Ubuntu finally got Rolling_
-	- Rolling Rhino Remix is an unofficial Ubuntu flavour which converts the Ubuntu operating system into a rolling release Linux distribution by tracking the devel series.
+* **Rhino Linux** ~ _Ubuntu finally got Rolling_
+	- Rhino Linux will be an Ubuntu-based, rolling release operating system with Ubuntu, Pacstall and XFCE at the core of the distribution.
 		- Current role: Deputy Project Leader/Developer
-	- [https://rollingrhino.org/](https://rollingrhino.org/)
+	- [https://rhinolinux.org/](https://rhinolinux.org/)
 
 * **HepOS** ~ _Breaking through the myth that Linux is bad for gaming_
 	- HepOS will break through the idea that Linux is bad for gaming with an easy to use system with various tools to help run all your favorite games out of the box.
@@ -66,13 +66,13 @@
 * Primarily self-taught
 * [Joma Class](https://www.jomaclass.com/)
 * [Missouri S&T CyberMiner camp](https://futurestudents.mst.edu/summer-camps/cyberminer-camp/)
+* My schools *Advanced Programming Course* in C++
 
 ### ### Programming Languages I know
 * Bash scripting (full)
 * Python (moderate)
-* Javascript (moderate)
-* C (basic)
-* Go (basic)
+* Rust (basic/moderate)
+* C/C++ (basic)
 
 #### #### Contact me
 1. Email: <hwengerstickel@pm.me>
