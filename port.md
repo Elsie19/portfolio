@@ -1,4 +1,4 @@
-# # Hey! I'm Henry!
+# # Hey! I'm Elsie!
 
 > Sysadmin, Developer, Project Leader
 
@@ -14,18 +14,13 @@
 
 * **Rhino Linux** ~ _Ubuntu finally got Rolling_
 	- Rhino Linux will be an Ubuntu-based, rolling release operating system with Ubuntu, Pacstall and XFCE at the core of the distribution.
-		- Current role: Deputy Project Leader/Developer
+		- Current role: Developer/Pacstall correspondence
 	- [https://rhinolinux.org/](https://rhinolinux.org/)
-
-* **HepOS** ~ _Breaking through the myth that Linux is bad for gaming_
-	- HepOS will break through the idea that Linux is bad for gaming with an easy to use system with various tools to help run all your favorite games out of the box.
-		- Current role: Co-Creator/Developer
-	- [https://github.com/Hep-OS](https://github.com/Hep-OS)
 
 * **Venom** ~ _NeoVim configuration_
 	- Venomous NeoVim config with useful options and a clean interface
 		- Current role: Creator/Developer
-	- [https://github.com/Henryws/Venom](https://github.com/Henryws/Venom)
+	- [https://github.com/Elsie19/Venom](https://github.com/Elsie19/Venom)
 
 ### ### Skills
 * A deep understanding of how Linux systems work and operate
@@ -70,10 +65,10 @@
 
 ### ### Programming Languages I know
 * Bash scripting (full)
+* C/C++ (moderate)
 * Python (moderate)
 * Rust (basic/moderate)
-* C/C++ (basic)
 
 #### #### Contact me
-1. Email: <hwengerstickel@pm.me>
-2. Discord: Plasma#4485
+1. Email: <elsie19@pm.me>
+2. Discord: @Elsie19
